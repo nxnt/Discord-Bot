@@ -77,7 +77,7 @@ client.on('messageCreate', (message) => {
             author: {
                 name: 'Melblue',
                 icon_url: 'attachment://logo.png',
-                url: 'https://discord.js.org',
+                url: 'https://github.com/nxnt',
             },
             description: 'Here is all command you can use in this server',
             fields: [
